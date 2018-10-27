@@ -775,6 +775,12 @@ Place: Allahabad
 About: Will do anything for free shirt
 Programming Language: C++, JS, Java
 
+Name: [Amith Weerasinghe](https://github.com/Amithw)
+Place: Alawwa,Sri Lanka.
+About: Undergrad at IS .
+Programming Language: php
+Email: amith.weerasinghe@gmail.com
+
 Name: [Marlene Oliveira](https://github.com/m-oliv)
 Place: Lisbon, Portugal
 About: Software Engineer
